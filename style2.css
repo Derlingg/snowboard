@@ -1,0 +1,16 @@
+.info{
+height: 320px;
+border: solid 1px;
+border-color: white;
+background: #f2f2f2;
+border-radius: 5px;
+}
+.flex{
+display: flex;
+}
+.info img{
+margin-right: auto;
+margin-top: 5px;
+height: 310px;
+width: 510px;
+}

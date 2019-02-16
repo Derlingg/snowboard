@@ -1,0 +1,10 @@
+.box{
+height: 400px;
+}
+.box img{
+width: 400px;
+height: 370px;
+}
+.flex{
+display: flex;
+}

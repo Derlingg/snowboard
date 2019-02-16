@@ -1,0 +1,27 @@
+.mini{
+height: 80px;
+background: #b7e7ff;
+}
+.main{
+height: 800px;
+background: white;
+}
+.box{
+height: 400px;
+border: solid 1px;
+border-color: #b7e7ff;
+}
+.flex{
+display: flex;
+}
+.box img{
+margin-top: 5px;
+margin-right: 5px;
+}
+.info{
+height: 350px;
+}
+.info img{
+height: 350px;
+width: 350px;
+}
